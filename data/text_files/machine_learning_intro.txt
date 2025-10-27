@@ -1,0 +1,8 @@
+Machine learning is a subfield of AI where computers learn to 
+    identify patterns and make decisions from data without being explicitly 
+    programmed for every task. It involves feeding data into algorithms to train models, 
+    which can then make predictions or classify new, unseen data. 
+    This allows systems to improve their performance as they are exposed to 
+    more data and are used in applications like image recognition, fraud detection, 
+    and personalized recommendations.
+    
